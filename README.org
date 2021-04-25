@@ -1,0 +1,8 @@
+#+title: Python for Data Science and Machine Learning Bootcamp - Exercises
+#+date: <2021-04-24>
+
+This repository contains the exercises, challenges, and projects completed from
+the Udemy course [[https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/][Python for Data Science and Machine Learning Bootcamp]], by [[https://www.linkedin.com/in/jmportilla][Jose
+Portilla]].
+
+The course was completed in September 2020.
